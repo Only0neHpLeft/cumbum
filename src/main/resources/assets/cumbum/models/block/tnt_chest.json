@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "down": "cumbum:block/bottom",
+    "up": "cumbum:block/top",
+    "north": "cumbum:block/back",
+    "east": "cumbum:block/right",
+    "south": "cumbum:block/front",
+    "west": "cumbum:block/left",
+    "particle": "cumbum:block/top"
+  },
+  "render_type": "solid"
+}

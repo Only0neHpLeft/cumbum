@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cumbum:block/tnt_chest"
+    },
+    "facing=south": {
+      "model": "cumbum:block/front",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cumbum:block/left",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "cumbum:block/right",
+      "y": 90
+    }
+  }
+}
